@@ -5,6 +5,6 @@ int main()
 {
     for(int i=1;i<=10;i=i+1)
     {
-        cout<<"Jai Shree Ram\n";
+        cout<<"Jai Shree Ramma\n";
     }
 };
