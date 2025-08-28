@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int i,n;
+    cout<<"enter the number: ";
+    cin>>n;
+
+   //  for(i=1;i<=10;i++)
+   //  {
+   //    //   cout<<n*i<<endl;
+   //      cout<<n<<"*"<<i<<"="<<n*i<<endl;
+   //  }
+
+
+  for(i=n;i<=10*n;i=i+n)
+  {
+    cout<<i<<endl;
+  }
+ 
+
+
+};
